@@ -2,7 +2,7 @@
 var miNombre = "Pky"; 
 
 function nombre() {
-  // Variale con scope local (solo puede ser utilizada en el contexto de la funcion nombre())
+  // Variale con scope local (solo es accesible en el contexto de ejecución de la funcion nombre())
   var miApellido = "rms"; 
   console.log (miNombre + " " + miApellido);
 }
