@@ -17,7 +17,7 @@ let a = 99;
 5 == "5"; // true
 // solo compara el valor, no el tipo de dato
 
-5 === "5": // false
+5 === "5"; // false
 // compara tanto valor como tipo de dato
 
 // Menor que 
